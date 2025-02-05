@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there!
+I'm a masters-level software engineer with a love for all things music and programming.
 <!--
 **nWhitcome/nWhitcome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
